@@ -1,5 +1,5 @@
 from PIL import Image 
-from notas import notefreqs
+from logic.notas import notefreqs
 
 def getNote(original_number):
     normalized_number = original_number / 255
@@ -44,5 +44,5 @@ def getNotesFromImage(input_image):
 
     return [notes1, notes2, notes3]
 
-image = Image.open('cons.jpg') 
-notes = getNotesFromImage(image)
+# image = Image.open('cons.jpg') 
+# notes = getNotesFromImage(image)

@@ -1,4 +1,5 @@
 export function postData(data){
+  console.log(data);
     fetch('http://127.0.0.1:5000/computeImage', {
         method: "POST",
         body: JSON.stringify(data),
