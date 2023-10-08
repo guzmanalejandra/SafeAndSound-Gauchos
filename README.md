@@ -91,7 +91,8 @@ visit http://localhost:3000/ to see the server running.
 
 ## 🎈 Usage <a name="usage"></a>
 
-
+![image](https://github.com/guzmanalejandra/SafeAndSound-Gauchos/assets/77400177/4b1dd80e-274a-424d-99a4-a7e81004edf0)
+Upload an image and play the audio
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
