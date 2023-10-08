@@ -60,7 +60,7 @@ const Scene = () => {
         const sphere = new THREE.Mesh(sphereGeometry, sphereMaterial);
         const x = 2000 * Math.random() - 1000;
         const y = 2000 * Math.random() - 1000;
-        const z = 2000 * Math.random() - 1000;
+        const z = 1800 * Math.random() - 1000;
         sphere.position.set(x, y, z);
 
         scene.add(sphere);

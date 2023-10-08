@@ -18,7 +18,9 @@ export default function Home() {
       <div className="flex flex-col w-1/2 items-center justify-center">
         <h1 className="text-8xl font-bold text-white">Safe and Sound</h1>
         <p className="text-xl text-gray-200">
-          Powered by los <span className="font-black text-6xl text-white colorText">Los Gauchos</span>
+          Powered by los <span className="font-black text-6xl text-white colorText">
+            Muchachos TECH
+          </span>
         </p>
       </div>
 
